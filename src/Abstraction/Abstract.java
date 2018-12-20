@@ -7,7 +7,7 @@ public abstract class Abstract {
 		System.out.println("Rashed bhaia eats shit");
 	}
 	
-	public void 
+	
 	
 	
 	
